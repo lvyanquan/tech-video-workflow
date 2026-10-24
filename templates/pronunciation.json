@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "revision": "example-r1",
+  "note": "模板示例，不代表官方读法。只应用于 TTS 输入；approved 为 false 的词条先试听。",
+  "terms": [
+    {"display": "Paimon", "spoken": "派蒙", "approved": false, "scope": "当前视频"},
+    {"display": "Fluss", "spoken": null, "approved": false, "scope": "待试听确认"},
+    {"display": "Flink", "spoken": null, "approved": false, "scope": "待试听确认"},
+    {"display": "SQL Server", "spoken": null, "approved": false, "scope": "待试听确认"},
+    {"display": "3.7.0", "spoken": "三点七点零", "approved": false, "scope": "仅版本号读法"}
+  ]
+}

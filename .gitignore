@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+.secrets/
+.venv/
+node_modules/
+output/
+renders/
+qa/
+*.mp4
+*.wav
+*.mp3
+*.zip

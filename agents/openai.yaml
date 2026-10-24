@@ -1,0 +1,4 @@
+interface:
+  display_name: "Technical Video Workflow"
+  short_description: "技术讲解视频工作流：内容设计、Remotion 动画、自然配音、字幕与本地交付"
+  default_prompt: "使用 $tech-video-workflow，先设计一支面向用户的技术讲解视频，再制作动画、配音、字幕并验收本地成片。"

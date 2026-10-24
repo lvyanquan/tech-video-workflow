@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "note": "填写实际来源与哈希；空字段不代表已经获取素材或确认授权。",
+  "assets": [
+    {
+      "id": "official-project-logo",
+      "localPath": "public/brand/project.svg",
+      "sourcePage": null,
+      "assetUrl": null,
+      "retrievedAt": null,
+      "sha256": null,
+      "rightsOrBrandGuidelines": null,
+      "modifications": "无",
+      "appearances": [
+        {"sceneId": "benefit", "frame": null, "qaImage": null, "visibleAndReadable": false}
+      ]
+    }
+  ]
+}

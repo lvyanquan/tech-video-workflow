@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "edition": "example-full-voice-r1",
+  "contentBaseline": "example-full-v1",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "minSeconds": null,
+  "maxSeconds": null,
+  "scenes": [
+    {
+      "id": "intro",
+      "title": "从用户问题切入",
+      "headFrames": 9,
+      "tailFrames": 15,
+      "audio": "audio/intro.wav",
+      "displayText": "这段示例介绍 3.7.0。",
+      "spokenText": "这段示例介绍三点七点零。",
+      "captions": [
+        {"text": "这段示例介绍 3.7.0。", "startMs": 100, "endMs": 1900}
+      ],
+      "cues": [
+        {"id": "show-version", "atMs": 700}
+      ]
+    }
+  ]
+}
